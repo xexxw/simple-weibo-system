@@ -25,4 +25,4 @@ This is a simple weibo system implemented using Flask and SQLAlchemy.
    pip install -r requirements.txt
 6. **Run the application**
    ```bash
-   python run.py
+   python app.py
