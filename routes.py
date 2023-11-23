@@ -2,7 +2,6 @@ from flask import request, jsonify
 from models import User, Tweet, Follow, Like
 from app import app, db
 
-# 省略其他导入语句
 
 # API
 @app.route('/post_content', methods=['POST'])
